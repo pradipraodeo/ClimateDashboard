@@ -1,6 +1,6 @@
                              Web Design Homework - Web Visualization Dashboard (Latitude)
 
-Deployed link: https://pradipraodeo.github.io/WebDesignChallenge/
+Deployed link: https://pradipraodeo.github.io/ClimateDashboard/
 
 The website consists of 7 pages total, including:
 
